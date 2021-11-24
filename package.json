@@ -1,0 +1,14 @@
+{
+  "name": "host-employees",
+  "version": "1.0.0",
+  "description": "Host employees json file for client via REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Robert Baumgartner",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
