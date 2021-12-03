@@ -16,7 +16,7 @@
       "phone": "05-65-50-52-66",
       "cell": "06-33-21-84-33",
       "picture": {
-        "large": "/images/portraits/men/41.jpg"
+        "large": "images/portraits/men/41.jpg"
       },
       "nat": "FR"
     },
@@ -36,7 +36,7 @@
       "phone": "58061332",
       "cell": "44608822",
       "picture": {
-        "large": "/images/portraits/men/37.jpg"
+        "large": "images/portraits/men/37.jpg"
       },
       "nat": "NO"
     },
@@ -56,7 +56,7 @@
       "phone": "061-057-8538",
       "cell": "081-645-3742",
       "picture": {
-        "large": "/images/portraits/women/72.jpg"
+        "large": "images/portraits/women/72.jpg"
       },
       "nat": "IE"
     },
@@ -76,7 +76,7 @@
       "phone": "(642)-213-0122",
       "cell": "(357)-319-5235",
       "picture": {
-        "large": "/images/portraits/women/26.jpg"
+        "large": "images/portraits/women/26.jpg"
       },
       "nat": "NZ"
     },
@@ -96,7 +96,7 @@
       "phone": "(867)-121-7991",
       "cell": "(655)-137-4712",
       "picture": {
-        "large": "/images/portraits/women/46.jpg"
+        "large": "images/portraits/women/46.jpg"
       },
       "nat": "TR"
     },
@@ -116,7 +116,7 @@
       "phone": "60611638",
       "cell": "95606732",
       "picture": {
-        "large": "/images/portraits/women/70.jpg"
+        "large": "images/portraits/women/70.jpg"
       },
       "nat": "NO"
     },
@@ -136,7 +136,7 @@
       "phone": "01-1370-4254",
       "cell": "0421-055-267",
       "picture": {
-        "large": "/images/portraits/men/59.jpg"
+        "large": "images/portraits/men/59.jpg"
       },
       "nat": "AU"
     },
@@ -156,7 +156,7 @@
       "phone": "011-714-0578",
       "cell": "081-176-1060",
       "picture": {
-        "large": "/images/portraits/men/27.jpg"
+        "large": "images/portraits/men/27.jpg"
       },
       "nat": "IE"
     },
@@ -176,7 +176,7 @@
       "phone": "041-405-2134",
       "cell": "081-172-2222",
       "picture": {
-        "large": "/images/portraits/men/20.jpg"
+        "large": "images/portraits/men/20.jpg"
       },
       "nat": "IE"
     },
@@ -196,7 +196,7 @@
       "phone": "995-911-0645",
       "cell": "483-214-0419",
       "picture": {
-        "large": "/images/portraits/women/36.jpg"
+        "large": "images/portraits/women/36.jpg"
       },
       "nat": "CA"
     },
@@ -216,7 +216,7 @@
       "phone": "(190)-287-9727",
       "cell": "(979)-713-9582",
       "picture": {
-        "large": "/images/portraits/women/71.jpg"
+        "large": "images/portraits/women/71.jpg"
       },
       "nat": "NL"
     },
@@ -236,7 +236,7 @@
       "phone": "31464275",
       "cell": "44755540",
       "picture": {
-        "large": "/images/portraits/women/5.jpg"
+        "large": "images/portraits/women/5.jpg"
       },
       "nat": "NO"
     },
@@ -256,7 +256,7 @@
       "phone": "951-154-279",
       "cell": "619-973-136",
       "picture": {
-        "large": "/images/portraits/men/27.jpg"
+        "large": "images/portraits/men/27.jpg"
       },
       "nat": "ES"
     },
@@ -276,7 +276,7 @@
       "phone": "05-61-61-69-10",
       "cell": "06-94-41-65-95",
       "picture": {
-        "large": "/images/portraits/women/52.jpg"
+        "large": "images/portraits/women/52.jpg"
       },
       "nat": "FR"
     },
@@ -296,7 +296,7 @@
       "phone": "09-114-553",
       "cell": "042-438-05-39",
       "picture": {
-        "large": "/images/portraits/women/37.jpg"
+        "large": "images/portraits/women/37.jpg"
       },
       "nat": "FI"
     },
@@ -316,7 +316,7 @@
       "phone": "(914)-974-4015",
       "cell": "(637)-849-3761",
       "picture": {
-        "large": "/images/portraits/women/61.jpg"
+        "large": "images/portraits/women/61.jpg"
       },
       "nat": "NL"
     },
@@ -336,7 +336,7 @@
       "phone": "03-829-130",
       "cell": "045-333-66-56",
       "picture": {
-        "large": "/images/portraits/women/88.jpg"
+        "large": "images/portraits/women/88.jpg"
       },
       "nat": "FI"
     },
@@ -356,7 +356,7 @@
       "phone": "621-840-3423",
       "cell": "323-939-1806",
       "picture": {
-        "large": "/images/portraits/men/22.jpg"
+        "large": "images/portraits/men/22.jpg"
       },
       "nat": "CA"
     },
@@ -376,7 +376,7 @@
       "phone": "(485)-868-1933",
       "cell": "(155)-495-2477",
       "picture": {
-        "large": "/images/portraits/women/59.jpg"
+        "large": "images/portraits/women/59.jpg"
       },
       "nat": "NZ"
     },
@@ -396,7 +396,7 @@
       "phone": "(817)-855-8120",
       "cell": "(946)-373-7039",
       "picture": {
-        "large": "/images/portraits/women/0.jpg"
+        "large": "images/portraits/women/0.jpg"
       },
       "nat": "US"
     }
