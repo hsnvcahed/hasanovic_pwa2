@@ -5,8 +5,8 @@ const asyncHandler = require('express-async-handler');
 const { getEmployees } = require('../model/employees');
 require('dotenv').config();
 
-const publicVapidKey = process.env.PUBLIC_VAPID_KEY;
-const privateVapidKey = process.env.PRIVATE_VAPID_KEY;
+const publicVapidKey = 'BGiXVWLfnjvogeHNKlXOl_QPH0RD79RTSky1Rge0lMp-ET3n7XsvM1HxXRs-R0Ee-j_UP8m1p6uTFz87J4aIL8Q';
+const privateVapidKey = 'FlQAQQNx_VXrGx7YMcIh9c99tYAZgbR5MmHXd-hDg9Y';
 webpush.setVapidDetails('mailto:robert.baumgartner@htlwienwest.at', publicVapidKey, privateVapidKey);
 
 const router = express.Router();
