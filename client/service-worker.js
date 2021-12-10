@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.ccfe9e53f7d2d0c2df2aeb8becf624a6.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.3ef813e58f6b2010644ec04b21a4e73f.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 if (workbox) {
   self.skipWaiting();
@@ -17,6 +17,13 @@ if (workbox) {
       cacheName: 'ahmeds-cache',
     }),
   );
+  self.addEventListener('push', (event) => {
+    const data = event.data.json();
+    self.registration.showNotification(data.title, {
+      body: data.body.message,
+      icon: 'img/icons/employees_192x192.png',
+    });
+  });
 } else {
   console.log(`Workbox didn't load`);
 }
